@@ -1,3 +1,4 @@
+#!/bin/python
 from list_elements import *
 from pymatgen import MPRester
 from fractions import gcd
